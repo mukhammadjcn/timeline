@@ -17,7 +17,7 @@ const firstDate = modifier[0].registered;
           <div class="line"></div>
         </div>
         <span
-          >Beginnig: <br />
+          >Beginning: <br />
           {{ firstDate }}</span
         >
       </header>
